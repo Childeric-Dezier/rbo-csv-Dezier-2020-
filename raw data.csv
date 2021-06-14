@@ -1,0 +1,112 @@
+Participant (n°),,POV,Ordre,Training,,,,,,Salle 1,,,,,Nbr Obj,Salle 2,,,,,Nbr Obj,Salle 3,,,,,Nbr Obj,Salle 4,,,,,Nbr Obj,Salle 5,,,,,Nbr Obj,Salle 6,,,,,Nbr Obj,Moyenne des rappels par salle
+,,,,1,2,3,4,5,,1,2,3,4,5,,1,2,3,4,5,,1,2,3,4,5,,1,2,3,4,5,,1,2,3,4,5,,1,2,3,4,5,,
+1,a,1,1,,,,,,,banane,ski,casquette,,,3,poisson,montgolfière,radio,,,3,tortue,ananas,vélo,chaussure,,4,oeuf,cafetière,,,,2,brosse à dents,tupperware,peluche,,,3,tente,cafetière,,,,2,"2,833333333"
+5,b,1,1,dauphin,radio,extincteur,,,,banane,,,,,1,poisson,bague,montgolfière,,,3,ananas,tortue,chaussure,clef,,4,oeuf,,,,,1,,,,,,0,chien,souris,tente,diamant,,4,"2,166666667"
+9,c,1,1,,,,,,,horloge,banane,,,,2,radio,montgolfière,bague,poisson,,4,ananas,tortue,,,,2,rubik's,oeuf,,,,2,peluche,,,,,1,tente,mallette,diamant,chien,,4,"2,5"
+13,d,1,1,dauphin,skateboard,appareil photo,extincteur,,,,,,,,0,bague,poisson,radio,montgolfière,,4,vélo,tortue,ananas,clef,,4,oeuf,,,,,1,peluche,cactus,lunettes,,,3,souris,chien,tente,,,3,"2,5"
+17,e,1,1,dauphin,skateboard,dé,,,,horloge,casquette,banane,,,3,poisson,radio,montgolfière,cafetière,,4,ananas,tortue,clef,vélo,chaussure,5,rubik's ,parapluie,,,,2,peluche ,brosse à dents,tupperware,cactus,,4,tente,,,,,1,"3,166666667"
+21,f,1,1,dauphin,,,,,,banane,,,,,1,,,,,,0,ananas,clef,tortue,chaussure,,4,oeuf,,,,,1,,,,,,0,,,,,,0,1
+3,g,1,2,dauphin,,,,,,banane,,,,,1,radio,montgolfière,poisson,,,3,tortue,ananas,vélo,clef,,4,cadenas,oeuf,,,,2,lunettes ,brosse à dents ,cactus,tupperware,,4,tente,souris,chien,,,3,"2,833333333"
+7,h,1,2,dé ,dauphin,,,,,banane ,casquette,,,,2,radio,poisson,montgolfière,,,3,ananas,clef,vélo,tortue,,4,rubik's,roue,,,,2,peluche,,,,,1,diamant,souris,tente,,,3,"2,5"
+11,y,1,2,skateboard,dé,,,,,banane,casquette,,,,2,poisson,,,,,1,tortue ,ananas,clef,vélo,chaussure,5,roue,oeuf,cadenas,,,3,lunettes,peluche,brosse à dents,tupperware,cactus,5,chien,diamant,mallette,tente,,4,"3,333333333"
+15,j,1,2,dé ,dauphin,,,,,casquette,horloge,,,,2,montgolfière,poisson,bague,radio,cafetière,5,ananas,tortue,chaussure,vélo,,4,,,,,,0,peluche,lunettes,brosse à dents,,,3,tente,mallette,chien,souris,,4,3
+19,k,1,2,dauphin,skateboard,extincteur,,,,horloge,casquette,ski,,,2,montgolfière,radio,,,,2,ananas,vélo,tortue,,,3,parapluie,roue,,,,2,brosse à dents ,tupperware,lunettes,peluche,cactus,5,chien,tente,souris,,,3,"2,833333333"
+2,l,2,1,dauphin,dé,skateboard,,,,casquette,,,,,1,poisson,horloge ,radio,,,3,chaussure,vélo,,,,2,,,,,,0,brosse à dents,peluche,lunettes,,,3,mallette,tente,,,,2,"1,833333333"
+6,m,2,1,dauphin,,,,,,banane,ski,casquette,,,3,montgolfière,poisson,radio,,,3,tortue,chaussure,vélo,clef,ananas,5,oeuf,roue,,,,2,tupperware,cactus,brosse à dents,peluche,,4,chien,tente,diamant,mallette,,4,"3,5"
+10,n,2,1,skateboard,dauphin,dé,,,,banane,,,,,1,radio,poisson,cafetière,,,3,ananas,tortue,vélo,,,3,rubik's,cadenas,,,,2,tupperware,peluche,lunettes,brosse à dents,,4,souris,diamant,mallette,chien ,tente,5,3
+14,o,2,1,dauphin,,,,,,,,,,,0,cafetière,poisson,montgolfière,bague,,4,clef,tortue,ananas,,,3,,,,,,0,brosse à dents,,,,,1,diamant,tente,,,,2,"1,666666667"
+18,p,2,1,,,,,,,banane,,,,,1,poisson,montgolfière,radio,,,3,ananas,tortue,chaussure,vélo,,4,cadenas,parapluie,,,,2,,,,,,0,tente,,,,,1,"1,833333333"
+4,q,2,2,dauphin,skateboard,dé,,,,banane,casquette,ski,horloge,mixeur,5,radio,bague,poisson,montgolfière,cafetière,5,tortue,clef,chaussure,vélo,ananas,5,oeuf,parapluie,rubik's,,,3,cactus,lunettes,peluche,tupperware,,4,chien,tente,souris,diamant,mallette,5,"4,5"
+8,r,2,2,skateboard,appareil photo,extincteur,,,,casquette,banane,,,,2,bague,poisson,radio,,,3,tortue,clef,ananas,chaussure,vélo,5,cadenas,rubik's,oeuf,,,3,peluche,cactus,lunettes,brosse à dents,,4,diamant,chien,souris,tente,,4,"3,5"
+12,s,2,2,dauphin,,,,,,,,,,,0,radio,poisson,,,,2,ananas,tortue,vélo,,,3,cadenas,,,,,1,peluche,lunettes,brosse à dents,,,3,tente,diamant,mallette,chien,,4,"2,166666667"
+16,t,2,2,dauphin,skateboard,,,,,banane,,,,,1,,,,,,0,clef,ananas,,,,2,oeuf,roue,,,,2,,,,,,0,chien,cadenas,,,,2,"1,166666667"
+20,u,2,2,appareil photo,dé,dauphin,,,,banane,horloge,,,,2,montgolfière,,,,,1,tortue,vélo,chaussure,ananas,,4,parapluie,rubik's,,,,2,,,,,,0,chien,tente,mallette,,,3,2
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,Nbr moy obj,Ecart type,,,,,Nbr moy obj,Ecart type,,,,,Nbr moy obj,Ecart type,,,,,Nbr moy obj,Ecart type,,,,,Nbr moy obj,Ecart type,,,,,Nbr moy obj,Ecart type,,,Moyenne totale,Ecart type total
+,,,,,,,,,,Pov 1,"1,727272727","0,9045340337",,,,Pov 1,"2,909090909","1,445997611",,,,Pov 1,"3,909090909","0,8312094146",,,,Pov 1,"1,636363636","0,809039835",,,,Pov 1,"2,636363636","1,858640755",,,,Pov 1,"2,818181818","1,328019715",,Pov 1,"2,606060606","1,434506486"
+,,,,,,,,,,Pov 2,"1,6","1,505545305",,,,Pov 2,"2,7","1,418136492",,,,Pov 2,"3,6","1,173787791",,,,Pov 2,"1,7","1,059349905",,,,Pov 2,"2,3","1,82878223",,,,Pov 2,"3,2","1,398411798",,Pov 2,"2,516666667","1,545816297"
+,,,,,,,,,,Total,"1,666666667","1,197219",,,,Total,"2,80952381","1,400680107",,,,Total,"3,761904762","0,9952267031",,,,Total,"1,666666667","0,9128709292",,,,Total,"2,476190476","1,806074407",,,,Total,3,"1,341640786",,Total,"2,563492063","1,483218294"
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Rang,Liste A,Liste B,Items similaires,Longueur de la liste,Similarité,Similarité moyenne,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,1,a,z,0,1,0,0,sans prise en compte de H86,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,2,b,c,0,2,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,3,c,a,2,3,"0,6666666667","0,2222222222",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,4,d,v,2,4,"0,5","0,2407407407",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,5,e,w,2,5,"0,4","0,2157407407",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Rang,Liste A,Liste B,Items similaires,Longueur de la liste,Similarité,Similarité moyenne,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,1,B,G,0,1,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,2,G,B,2,2,1,"0,5",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,3,T,Z,2,3,"0,6666666667","0,5833333333",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,4,Z,J,3,4,"0,75","0,6111111111",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,5,J,F,4,5,"0,8","0,6236111111",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,banane,poisson,ananas,oeuf,peluche,tente,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,banane,poisson,tortue,cadenas,peluche,tente,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
